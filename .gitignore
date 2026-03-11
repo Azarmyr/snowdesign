@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+stitch-output/
+briefs/
+design-system/
+.env
