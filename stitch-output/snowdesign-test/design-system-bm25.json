@@ -1,0 +1,43 @@
+{
+  "project_name": "Snowdesign Test",
+  "category": "Fintech/Crypto",
+  "pattern": {
+    "name": "Conversion-Optimized",
+    "sections": "Hero > Features > CTA",
+    "cta_placement": "Above fold",
+    "color_strategy": "",
+    "conversion": ""
+  },
+  "style": {
+    "name": "Glassmorphism",
+    "type": "General",
+    "effects": "Backdrop blur (10-20px), subtle border (1px solid rgba white 0.2), light reflection, Z-depth",
+    "keywords": "Frosted glass, transparent, blurred background, layered, vibrant background, light source, depth, multi-layer",
+    "best_for": "Modern SaaS, financial dashboards, high-end corporate, lifestyle apps, modal overlays, navigation",
+    "performance": "\u26a0 Good",
+    "accessibility": "\u26a0 Ensure 4.5:1"
+  },
+  "colors": {
+    "primary": "#F59E0B",
+    "secondary": "#FBBF24",
+    "cta": "#8B5CF6",
+    "background": "#0F172A",
+    "text": "#F8FAFC",
+    "notes": "Gold trust + purple tech"
+  },
+  "typography": {
+    "heading": "Fira Code",
+    "body": "Fira Sans",
+    "mood": "dashboard, data, analytics, code, technical, precise",
+    "best_for": "Dashboards, analytics, data visualization, admin panels",
+    "google_fonts_url": "https://fonts.google.com/share?selection.family=Fira+Code:wght@400;500;600;700|Fira+Sans:wght@300;400;500;600;700",
+    "css_import": "@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&family=Fira+Sans:wght@300;400;500;600;700&display=swap');"
+  },
+  "key_effects": "Backdrop blur (10-20px), subtle border (1px solid rgba white 0.2), light reflection, Z-depth",
+  "anti_patterns": "Light backgrounds + No security indicators",
+  "decision_rules": {
+    "must_have": "security-badges",
+    "if_real_time": "add-streaming-data"
+  },
+  "severity": "HIGH"
+}
